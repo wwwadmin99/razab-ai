@@ -1,0 +1,19 @@
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: rgb(24, 24, 24);
+    height: 100%;
+    padding-left: 5%;
+    gap:2em
+}
+
+.new__chat, .chats {
+    color: white;
+    cursor: pointer;
+}
+
+.chats {
+    color:#afafaf
+}
+
